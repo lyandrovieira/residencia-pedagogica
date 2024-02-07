@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10.12) (preloaded format=pdflatex 2023.12.16)  5 FEB 2024 18:04
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10.12) (preloaded format=pdflatex 2023.12.16)  7 FEB 2024 15:26
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -790,29 +790,55 @@ Non-PDF special ignored!
 <special> papersize=597.50787pt,845.04684pt
 
 {C:/Users/Lyandro/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
-(Apostila laboratório de Física.aux)
+(Apostila laboratório de Física.toc
+LaTeX Font Info:    Trying to load font information for U+msa on input line 3.
+
+(C:\Users\Lyandro\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 3.
+
+(C:\Users\Lyandro\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.43 ...line {9.1}Introdução}{6}{subsection.9.1}
+                                                  % [1] [2])
+\tf@toc=\write5
+\openout5 = `"Apostila laboratório de Física.toc"'.
+
+ [3] [4
+
+] [5]
+[6] [7] [8] [9] [10] [11
+
+] (Apostila laboratório de Física.aux)
  ***********
 LaTeX2e <2023-11-01>
 L3 programming layer <2023-12-08>
  ***********
 Package rerunfilecheck Info: File `"Apostila laboratório de Física".out' has 
 not changed.
-(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+(rerunfilecheck)             Checksum: C165B9EFBEA8DD6EA2DD547108B91C1B;12527.
  ) 
 Here is how much of TeX's memory you used:
- 21679 strings out of 474490
- 405190 string characters out of 5742868
- 1928473 words of memory out of 5000000
- 43622 multiletter control sequences out of 15000+600000
- 558367 words of font info for 37 fonts, out of 8000000 for 9000
+ 21935 strings out of 474490
+ 409343 string characters out of 5742868
+ 1941473 words of memory out of 5000000
+ 43757 multiletter control sequences out of 15000+600000
+ 564232 words of font info for 59 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 84i,5n,93p,573b,470s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 84i,6n,93p,573b,600s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/Lyandro/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/c
-m/cmr12.pfb>
-Output written on "Apostila laboratório de Física.pdf" (1 page, 18075 bytes).
-
+m/cmbx12.pfb><C:/Users/Lyandro/AppData/Local/Programs/MiKTeX/fonts/type1/public
+/amsfonts/cm/cmr12.pfb>
+Output written on "Apostila laboratório de Física.pdf" (12 pages, 105193 byte
+s).
 PDF statistics:
- 19 PDF objects out of 1000 (max. 8388607)
- 2 named destinations out of 1000 (max. 500000)
- 13 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 521 PDF objects out of 1000 (max. 8388607)
+ 99 named destinations out of 1000 (max. 500000)
+ 701 words of extra memory for PDF output out of 10000 (max. 10000000)
 
